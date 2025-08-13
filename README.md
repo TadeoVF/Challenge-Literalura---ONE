@@ -22,7 +22,7 @@ La aplicación ofrece un menú interactivo con las siguientes opciones:
 
 ## 🛠️ Tecnologías Utilizadas
 
-- **Lenguaje de Programación:** Java 17+
+- **Lenguaje de Programación:** Java 21
 - **Framework:** Spring Boot
 - **Base de Datos:** PostgreSQL
 - **Persistencia:** Spring Data JPA / Hibernate
